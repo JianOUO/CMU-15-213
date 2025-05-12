@@ -2,6 +2,7 @@
 - [x] Data
 - [x] Bomb
 - [x] Attack
+- [ ] Arch
 - [ ] Cache
 - [ ] Malloc
 - [ ] Shell
